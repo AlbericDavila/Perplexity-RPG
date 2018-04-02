@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Village Lvl1.unity
+  isLoaded: 1
+  isActive: 1
